@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Sattar</h1>
 <h3 align="center">I am passionate Front End Web Developer from Pakistan</h3>
-<a href="https://www.canva.com/design/DAFmG1b98ok/Cga7ZsTYAYTEmmfoLZf5Mg/view?utm_content=DAFmG1b98ok&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">My Profiel</a>
+<img src="Muhammad Tayyab Sattar Linkedin Profile Banner.jpg">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabsattar042&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabsattar042" /> </p>
